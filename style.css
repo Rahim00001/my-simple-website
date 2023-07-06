@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    color: crimson;
+    background-color: black;
+}
+div{
+    background-color: tomato;
+    padding: 10px;
+}
+p{  
+    background-color: gold;
+    color: blue;
+    font-size: large;
+}
+#lorem{
+    background-color: aquamarine;
+}
